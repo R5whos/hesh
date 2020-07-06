@@ -71,4 +71,3 @@ def hesh_mode(fibanachi_sum):
 			final = later[int(string_for_mode)] + final
 			print(final.upper())
 
-

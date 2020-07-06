@@ -19,8 +19,8 @@ def file_to_bit(f):
 			result.append(str_to_bit(command))
 		fibanachi(result)
 
-print('парне')
+print('парное')
 str_to_bit('hi')
 print('\n')
-print('не парне')
+print('не парное')
 str_to_bit('hs')
